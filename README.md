@@ -1,6 +1,6 @@
 # blackhacker
 
-git clone https://github.com/Blackhackerx/blackhacker/edit/main/README.md
+git clone https://github.com/Blackhackerx/blackhacker
 
 cd blackhacker
 
